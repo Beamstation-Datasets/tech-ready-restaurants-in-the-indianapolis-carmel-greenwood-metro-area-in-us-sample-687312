@@ -1,0 +1,12 @@
+{
+  "export_job_id": "36d35336-5d33-46a2-98c2-b0e98dad3f13",
+  "id_short": 687312,
+  "published_at": "2026-04-16T19:17:36Z",
+  "repo_name": "tech-ready-restaurants-in-the-indianapolis-carmel-greenwood-metro-area-in-us-sample-687312",
+  "sample_asset_name": "beamstation_687312_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/687312/beamstation_687312_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "d8aec60c463c5a7728e5abca83bcbc60d5708fbe7ae89b235e8385df6dcb8532",
+  "sample_size_bytes": 22121,
+  "total_records": 35
+}
