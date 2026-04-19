@@ -9,9 +9,9 @@
 | Dataset ID | `687312` |
 | Location | Indianapolis-Carmel-Greenwood, IN |
 | Category | Restaurants |
-| Full dataset size | 35 records |
-| Free sample size | 2 records (5.71%) |
-| Last export | 2026-04-08T03:04:46.958096+00:00 |
+| Full dataset size | 21 records |
+| Free sample size | 2 records (9.52%) |
+| Last export | 2026-04-15T08:09:17.591481+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-indianapolis-carmel-greenwood-metro-area-in-us-sample-687312/releases/download/sample-latest/beamstation_687312_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
