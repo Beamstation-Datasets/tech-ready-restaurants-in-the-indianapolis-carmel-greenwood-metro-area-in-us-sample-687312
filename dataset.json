@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Indianapolis-Carmel-Greenwood Metro Area, IN, US",
-  "export_job_id": "e2a5a54d-9637-4e31-b1a8-7e0bcda8c943",
+  "export_job_id": "3800d802-d8f1-4862-a63e-68161741b4b1",
   "github_org": "Beamstation-Datasets",
   "id_short": 687312,
   "location_name": "Indianapolis-Carmel-Greenwood, IN",
@@ -14,9 +14,9 @@
   "repo_name": "tech-ready-restaurants-in-the-indianapolis-carmel-greenwood-metro-area-in-us-sample-687312",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/687312/beamstation_687312_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
   "sample_pct": 9.09,
-  "sample_records": 1,
-  "sample_sha256": "c9927aa9aecc99878ef23ad4116fc8970016c510f59ccc9d9a645f99982c6466",
-  "sample_size_bytes": 20190,
-  "total_records": 11,
-  "updated_at": "2026-04-22T15:55:27.438127+00:00"
+  "sample_records": 6,
+  "sample_sha256": "661f143d0956276f9ec1293f171f9b70fd06502e6dc33c768fbe2b75d622856c",
+  "sample_size_bytes": 39319,
+  "total_records": 66,
+  "updated_at": "2026-04-29T15:53:37.162312+00:00"
 }
